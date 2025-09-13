@@ -1,4 +1,4 @@
-package com.example.myapplication.projeckt
+package com.example.myapplication.project
 
 import androidx.compose.foundation.Image
 import androidx.compose.foundation.background
